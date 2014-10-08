@@ -2,7 +2,7 @@
   "name": "placeholder",
   "description": "Create dynamic angular placeholder for inputs",
   "authors": [
-  "ClearCode (http://clearcode.cc)",
+  "ClearCode (http://clearcode.cc)"
 ],
   "version": "1.0.0",
   "main": "placeholder.js",
