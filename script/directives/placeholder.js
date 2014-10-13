@@ -21,7 +21,7 @@
 */
 "use strict";
 
-angular.module('cc.placeholder.directive').directive('placehold', function() {
+angular.module('cc.placeholder.directive', []).directive('placehold', function() {
     var _attr, value;
 
     function focus() {
