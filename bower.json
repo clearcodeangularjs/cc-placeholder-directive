@@ -1,5 +1,5 @@
 {
-	"name": "placeholder",
+	"name": "cc-placeholder-directive",
 	"description": "Create dynamic angular placeholder for inputs",
 	"authors": [
 		"ClearCode (http://clearcode.cc)"
