@@ -5,7 +5,7 @@ Create dynamic angular placeholder for inputs
 
 Installation
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-placeholder-directive --save ```
 
 
 Usage
